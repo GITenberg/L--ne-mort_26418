@@ -1,0 +1,36 @@
+_repo: L--ne-mort_26418
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johannot, Tony
+    birthdate: 1803
+    deathdate: 1852
+    gutenberg_agent_id: '31992'
+    url: http://www.gutenberg.org/2009/agents/31992
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Janin, Jules Gabriel
+    alias: Janin, J. (Jules)
+    birthdate: 1804
+    deathdate: 1874
+    gutenberg_agent_id: '4431'
+    url: http://www.gutenberg.org/2009/agents/4431
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2008-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26418'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+title: L'âne mort
+url: http://www.gutenberg.org/ebooks/26418
