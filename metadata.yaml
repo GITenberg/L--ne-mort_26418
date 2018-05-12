@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4431
     wikipedia: http://en.wikipedia.org/wiki/Jules_Janin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26418#L--ne-mort
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2008-08-24'
 gutenberg_type: Text
